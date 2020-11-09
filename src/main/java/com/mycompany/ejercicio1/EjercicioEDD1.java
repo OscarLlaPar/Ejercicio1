@@ -16,5 +16,4 @@ public class EjercicioEDD1 {
         Random run=new Random(1-9);
     }
     //Este comentario es una prueba
-    //Segundo comentario de prueba
 }
