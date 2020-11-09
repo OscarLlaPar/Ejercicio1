@@ -5,15 +5,10 @@
  */
 package com.mycompany.ejercicio1;
 
-import java.util.Random;
-
 /**
- * Creates a random number and displays it on screen.
+ *
  * @author daw1
  */
-public class EjercicioEDD1 {
-    public static void main(String[] args){
-        Random run=new Random(1-9);
-    }
-    //Este comentario es una prueba
+public class Square {
+    
 }
